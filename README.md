@@ -29,30 +29,10 @@ Hi! I am Paloma, an enthusiastic data scientist from Spain. <img src="https://me
 
 # 🛠 &nbsp;Languages and Tools :
 
+# 🛠 &nbsp;Languages and Tools :
+
 <p>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="JPython" width="40" height="40"/>&nbsp;</a>
-
-<a href="https://www.python.org//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL"  width="40" height="40"/>&nbsp; </a>
-
-<a href="https://pandas.pydata.org//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas"  width="40" height="40"/>&nbsp; </a>
-
-<a href="https://numpy.org//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy"  width="60" height="40"/>&nbsp; </a>
-
-<a href="https://www.tensorflow.org//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow"  width="60" height="40"/>&nbsp; </a>
-
-<a href="https://pytorch.org//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg"  title="Pytorch" alt="Pytorch" width="60" height="40"/>&nbsp; </a>
-
-<a href="https://azure.microsoft.com//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="60" height="40">&nbsp; </a>
-
-<a href="https://opencv.org//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV"  width="40" height="40"/>&nbsp; </a>
-
-<a href="https://www.docker.com//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker"  alt="docker" width="40" height="40"/>&nbsp; </a>
-
-<a href="https://git-scm.com//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp; </a>
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Scikit learn" alt="Scikit learn" width="60" height="40"/>&nbsp; </a>
-
-<a href="https://spacy.io//" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" title="spaCy" alt="spaCy" width="60" height="40"/>&nbsp; </a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="JPython" width="40" height="40"/>&nbsp;</a> <a href="https://www.python.org//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL"  width="40" height="40"/>&nbsp; </a> <a href="https://pandas.pydata.org//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas"  width="40" height="40"/>&nbsp; </a> <a href="https://numpy.org//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy"  width="70" height="50"/>&nbsp; </a> <a href="https://www.tensorflow.org//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow"  width="80" height="50"/>&nbsp; </a> <a href="https://pytorch.org//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg"  title="Pytorch" alt="Pytorch" width="70" height="50"/>&nbsp; </a> <a href="https://azure.microsoft.com//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="70" height="50">&nbsp; </a> <a href="https://opencv.org//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV"  width="40" height="40"/>&nbsp; </a> <a href="https://www.docker.com//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker"  alt="docker" width="40" height="40"/>&nbsp; </a> <a href="https://git-scm.com//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Scikit learn" alt="Scikit learn" width="60" height="30"/>&nbsp; </a> <a href="https://spacy.io//" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" title="spaCy" alt="spaCy" width="50" height="30"/>&nbsp; </a>
 </p>
 
 
