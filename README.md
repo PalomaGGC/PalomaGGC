@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVlajVoM2xkaTdrMmNzdmVwNHZtODE4YmhjcHkybGg4NHp2cGZjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JFsJ35j8Zi4q789gdy/giphy.gif" width="400"/></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVlajVoM2xkaTdrMmNzdmVwNHZtODE4YmhjcHkybGg4NHp2cGZjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JFsJ35j8Zi4q789gdy/giphy.gif" width="500"/></p>
 
 
 
@@ -33,14 +33,14 @@ Hi! I am Paloma, an enthusiastic data scientist from Spain. <img src="https://me
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="JPython" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL"  height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas"  height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" height="90"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" height="60"/>&nbsp;
 <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Scikit learn" alt="Scikit learn" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow"  height="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg"  title="Pytorch" alt="Pytorch" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow"  height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg"  title="Pytorch" alt="Pytorch" height="60"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" title="spaCy" alt="spaCy" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV"  height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" height="80"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker"  alt="docker" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker"  alt="docker" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" height="50"/>&nbsp;
 </p>
 
@@ -60,5 +60,7 @@ Hi! I am Paloma, an enthusiastic data scientist from Spain. <img src="https://me
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=PalomaGGC&style=flat-square&color=blue" alt=""></p>
+
+
 
 
