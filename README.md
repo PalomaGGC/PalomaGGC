@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVlajVoM2xkaTdrMmNzdmVwNHZtODE4YmhjcHkybGg4NHp2cGZjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JFsJ35j8Zi4q789gdy/giphy.gif" width="500"/></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ1cWR3amhwN3ppNW9kcWllcmdyNDNndTEwcmpndmdiYm8zYzJnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M5m96iHtJSkwKU2OTk/giphy.gif" width="500"/></p>
 
 
 
@@ -11,7 +11,7 @@ Hi! I am Paloma, an enthusiastic data scientist from Spain. <img src="https://me
 
 - 🤖 Immersed in the ever-evolving realm of AI, machine learning, and deep learning.
 
-- 🚀 Passionate about developing innovative solutions that that address real-world challenges, pushing the boundaries of what's possible.
+- 🚀 Passionate about developing innovative solutions that address real-world challenges, pushing the boundaries of what's possible.
 
 - ✨ Thriving on the challenge of transforming raw data into meaningful insights that drive informed decision-making.
 
